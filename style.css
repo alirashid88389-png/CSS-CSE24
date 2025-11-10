@@ -1,0 +1,24 @@
+p{
+      color: blue;
+      background-color: rgb(132, 160, 95);
+      text-align: center;
+      padding: 20px;
+      font-size: 25px;
+}
+.jk{
+    color: red;
+    background-color: blueviolet;
+}
+#li{
+    color:yellow;
+}
+div{
+    margin: 0%;
+    height:300px;
+    width: 300px;
+    background-color: green;
+    border: 1px  solid burlywood
+    pading: 10px;
+    margin-left: 50px;
+
+}
