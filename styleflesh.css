@@ -1,0 +1,28 @@
+*{
+        margin: 0;
+        padding:0;
+}
+
+
+.container{
+         display : flex;
+        flex-direction: row;
+        align-items: center;
+        height: 200px;
+        border: 2px solid black;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: space-between;
+        justify-content: space-around;
+        /* gap: 20px 30px ;
+        background-color: blueviolet;
+        width: 700px; */
+}
+.item{
+        background-color: blueviolet;
+        padding: 20px;
+        border: 1px solid red;
+        font-size: 18px;
+        width: 300px;         
+}
+    
